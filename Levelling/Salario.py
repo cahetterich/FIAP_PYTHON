@@ -8,7 +8,6 @@ sal = float(input("Digite o seu salário:"))
 
 #Se tc < 3 entao
 if tc < 3:
-
     #aumento = salario * 0.05
     aumento = sal * 0.05
 #senão
