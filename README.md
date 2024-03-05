@@ -1,1 +1,1 @@
-# FIAP_PYTHON
+# Estudos básicos de lógica utilizando Python
